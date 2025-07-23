@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         PGL823 反廣告攔截腳本阻擋工具
+// @name         反廣告攔截腳本阻擋工具
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  此腳本針對此網站來阻擋反廣告腳本載入
@@ -15,7 +15,7 @@
 (function() {
     'use strict';
 
-    console.log('Tampermonkey: PGL823 反廣告攔截腳本阻擋工具 已啟動。');
+    console.log('Tampermonkey: 反廣告攔截腳本阻擋工具 已啟動。');
 
     // 廣告相關的域名列表
     const adDomains = [
