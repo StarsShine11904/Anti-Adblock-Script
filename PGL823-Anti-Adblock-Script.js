@@ -9,7 +9,7 @@
 // @run-at       document-start
 // @license      MIT
 // @downloadURL https://update.greasyfork.org/scripts/543401/PGL823%20%E5%8F%8D%E5%BB%A3%E5%91%8A%E6%94%94%E6%88%AA%E8%85%B3%E6%9C%AC%E9%98%BB%E6%93%8B%E5%B7%A5%E5%85%B7.user.js
-// @updateURL https://update.greasyfork.org/scripts/543401/PGL823%20%E5%8F%8D%E5%BB%A3%E5%91%8A%E6%94%94%E6%88%AA%E8%85%B3%E6%9C%AC%E9%98%BB%E6%93%8B%E5%B7%A5%E5%85%B7.meta.js
+// @updateURL https://github.com/StarsShine11904/PGL823-Anti-Adblock-Script/blob/main/PGL823-Anti-Adblock-Script.js
 // ==/UserScript==
 
 (function() {
