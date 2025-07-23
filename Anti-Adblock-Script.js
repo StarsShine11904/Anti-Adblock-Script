@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         反廣告攔截腳本阻擋工具
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.0
 // @description  此腳本針對此網站來阻擋反廣告腳本載入
 // @author       Stars Shine
 // @match        https://dl.pgl823.com/*
